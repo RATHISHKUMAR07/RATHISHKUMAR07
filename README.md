@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://github.com/RATHISHKUMAR07/RATHISHKUMAR07/blob/main/LinkedIn_gif.gif?raw=true"  />
+  <img height="100%" src="https://github.com/RATHISHKUMAR07/RATHISHKUMAR07/blob/main/LinkedIn_gif.gif?raw=true"  />
 </div>
 
 ###
@@ -95,7 +95,5 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RATHISHKUMAR07/RATHISHKUMAR07/output/snake.svg" alt="Snake animation" />
 
 ###
