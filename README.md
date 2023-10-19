@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="100%" src="https://github.com/RATHISHKUMAR07/RATHISHKUMAR07/blob/main/LinkedIn_gif1.gif?raw=true"  />
+  <img height="100%" src="https://github.com/RATHISHKUMAR07/RATHISHKUMAR07/blob/main/Banner.gif?raw=true"  />
 </div>
 
 ###
