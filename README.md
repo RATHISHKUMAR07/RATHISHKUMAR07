@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 ###
 <div align="center">
   <a href="https://rathishkumar07.github.io/rathishkumar_m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Rathish%20kumar%20M&logo=r&label=&color=lightblack&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Rathish%20kumar%20M&logo=r&label=&color=gold&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
 ###
+
 <div align="center">
   <a href="https://linkedin.com/in/rathishkumar-m" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
