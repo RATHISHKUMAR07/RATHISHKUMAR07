@@ -22,6 +22,9 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/rathishkumar-m" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/u/RathishKumar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=lightgrey&logoColor=FFA116&labelColor=lightgrey&style=for-the-badge" height="25" width="100" alt="Leetcode logo"  />
+  </a>
   <a href="https://www.hackerrank.com/rathish07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
